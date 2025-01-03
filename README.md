@@ -20,7 +20,7 @@ FinanceBot is a user-friendly Streamlit-based application designed to help you a
 * Clone repository:
 
 ```bash
-git clone https://github.com/your-username/financebot.git
+https://github.com/SahilChukka19/FinanceBot.git
 cd financebot
 ```
 * Install required dependencies:
